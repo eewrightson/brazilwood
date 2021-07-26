@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Brazilwood" 
-       banner="https://upload.wikimedia.org/wikipedia/commons/d/d6/AtlasMiller_BNF_Brasilis_paubrasil.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/AtlasMiller_BNF_Brasilis_paubrasil.jpg/640px-AtlasMiller_BNF_Brasilis_paubrasil.jpg" 
        layout="vertical">
 
 
