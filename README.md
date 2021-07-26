@@ -1,9 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Brazilwood" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/8e/PAUBRASILjbsp.jpg" 
        layout="vertical">
+
 
 Paubrasilia echinata is a species of flowering plant in the legume family, Fabaceae, and is endemic to the Atlantic Forest. It is a Brazilian timber tree commonly known as Pernambuco wood or brazilwood (Portuguese: pau-de-pernambuco, pau-brasil; Tupi: Ibirapitanga) and is the national tree of Brazil. This plant has a dense, orange-red heartwood that takes a high shine, and it is the premier wood used for making bows for stringed instruments.The wood also yields a red dye called brazilin, which oxidizes to brazilein.
 
