@@ -10,7 +10,7 @@ Paubrasilia echinata is a species of flowering plant in the legume family, Fabac
 
 
 The name pau-brasil was applied to certain species of the genus Caesalpinia in the medieval period, and was given its original scientific name Caesalpinia echinata in 1785 by Jean-Baptiste Lamarck. More recent taxonomic studies have suggested that it merits recognition as a separate genus, and it was thus renamed Paubrasilia echinata in 2016.
-<param ve-image url=“https://upload.wikimedia.org/wikipedia/commons/2/2a/Caesalpinia_echinata_Taub95.png”>
+<param ve-image url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Caesalpinia_echinata_Fruit.jpg/1024px-Caesalpinia_echinata_Fruit.jpg>
 
 
 The name of Brazil is a shortened form of Terra do Brasil, 'land of brazilwood'.
